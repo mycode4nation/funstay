@@ -10,8 +10,8 @@
       "name": "Jung Hook Sie",
       "type": "Apartment",
       "imageUrl": "/images/image-mostpicked-1.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "East java",
+      "city": "Malang ",
       "price": "80",
       "unit": "night"
     },
@@ -30,8 +30,8 @@
       "name": "House Tour",
       "type": "Rumah",
       "imageUrl": "/images/image-mostpicked-3.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "East java",
+      "city": "Malang ",
       "price": "80",
       "unit": "night"
     },
@@ -40,8 +40,8 @@
       "name": "Jung Hook Sie",
       "type": "Apartment",
       "imageUrl": "/images/image-mostpicked-4.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "East java",
+      "city": "Malang ",
       "price": "80",
       "unit": "night"
     },
@@ -50,8 +50,8 @@
       "name": "Jung Hook Sie",
       "type": "Apartment",
       "imageUrl": "/images/image-mostpicked-5.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "East java",
+      "city": "Malang ",
       "price": "80",
       "unit": "night"
     }
@@ -65,32 +65,32 @@
           "_id": "asd1293uasdads1",
           "name": "PSW Antasari",
           "imageUrl": "/images/image-category-1.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Kuretakeso",
           "imageUrl": "/images/image-category-2.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Arya Duta",
           "imageUrl": "/images/image-category-3.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
           "imageUrl": "/images/image-category-4.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": false
         }
       ]
@@ -103,32 +103,32 @@
           "_id": "asd1293uasdads1",
           "name": "PSW Antasari",
           "imageUrl": "/images/image-category-5.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Kuretakeso",
           "imageUrl": "/images/image-category-6.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Arya Duta",
           "imageUrl": "/images/image-category-7.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East Java",
+          "city": "Malang",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
           "imageUrl": "/images/image-category-8.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": true
         }
       ]
@@ -141,32 +141,32 @@
           "_id": "asd1293uasdads1",
           "name": "PSW Antasari",
           "imageUrl": "/images/image-category-9.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Kuretakeso",
           "imageUrl": "/images/image-category-10.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Arya Duta",
           "imageUrl": "/images/image-category-11.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Dhika",
           "imageUrl": "/images/image-category-12.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "country": "East java",
+          "city": "Malang ",
           "isPopular": false
         }
       ]
