@@ -40,8 +40,7 @@ export default function Button(props) {
           style={props.style}
           target={props.target === "_blank" ? "_blank" : undefined}
           rel={props.target === "_blank" ? "noopener noreferer" : undefined}
-        >
-          {props.children}
+        > {props.children}
         </a>
       );
     } else {
@@ -51,8 +50,7 @@ export default function Button(props) {
           className={className.join(" ")}
           style={props.style}
           onClick={onClick}
-        >
-          {props.children}
+        > {props.children}
         </Link>
       );
     }
@@ -63,8 +61,7 @@ export default function Button(props) {
       className={className.join(" ")}
       style={props.style}
       onClick={onClick}
-    >
-      {props.children}
+    > {props.children}
     </button>
   );
 }
