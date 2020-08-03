@@ -12,6 +12,7 @@ export default function Completed() {
               src={CompletedIllustration}
               className="img-fluid"
               alt="completed checkout apartment"
+          
             />
             <p className="text-gray-500">
               We will inform you via email later once the transaction has been

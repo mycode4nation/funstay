@@ -213,15 +213,14 @@ export default class Checkout extends Component {
               {CurrentStep === "completed" && (
                 <Controller>
                   <Button
-                    className="btn"
+                    className="btn px-7"
                     type="link"
-                    isBlock
                     isPrimary
+             
                     hasShadow
                     href=""
-                  >
-                    Back to Home
-                  </Button>
+                    style={{marginLeft: 70}}
+                  >Back to Home</Button>
                 </Controller>
               )}
             </>
